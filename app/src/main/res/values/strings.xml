@@ -1,0 +1,83 @@
+<resources>
+    <string name="app_name">Komik Verse</string>
+    <string name="comic_name">Nama Komik</string>
+    <string name="description">Deskripsi</string>
+    <string-array name="data_name">
+        <item>Solo Leveling</item>
+        <item>Wind Breaker</item>
+        <item>Legend of the Northern Blade</item>
+        <item>Omniscient Reader’s Viewpoint</item>
+        <item>How to Fight</item>
+        <item>The World After the Fall</item>
+        <item>8Kaijuu</item>
+        <item>Tomb Raider King</item>
+        <item>The Great Mage Returns After 4000 Years</item>
+        <item>One Piece</item>
+    </string-array>
+    <string-array name="data_genre">
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Drama, Sport</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action</item>
+        <item>Action, Adventure, Drama, Fantasy, Mystery</item>
+        <item>Action, Comedy, Horror, Sci-Fi</item>
+        <item>Action, Adventure, Comedy, Fantasy, Isekai</item>
+        <item>Action, Adventure, Fantasy</item>
+        <item>Action, Adventure, Comedy, Drama, Fantasy</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Solo Leveling Manhwa adalah serial komik yang bertemakan Magic, Monsters dan juga mengandung demografis Shounen. </item>
+        <item>Wind Breaker Manhwa adalah serial komik yang bertemakan dan juga mengandung demografis Shounen.</item>
+        <item>Legend of the Northern Blade Manhwa adalah serial komik yang bertemakan Martial Arts dan juga mengandung demografis Shounen.</item>
+        <item>Omniscient Reader’s Viewpoint Manhwa adalah serial komik yang bertemakan Magic, Monsters dan juga mengandung demografis Shounen.</item>
+        <item>How to Fight Manhwa adalah serial komik yang bertemakan Martial Arts dan juga mengandung demografis Shounen.</item>
+        <item>The World After the Fall Manhwa adalah serial komik yang bertemakan dan juga mengandung demografis Shounen.</item>
+        <item>8Kaijuu Manga adalah serial komik yang bertemakan Military, Monsters dan juga mengandung demografis Shounen.</item>
+        <item>Tomb Raider King Manhwa adalah serial komik yang bertemakan Magic, Monsters, Supernatural, Time Travel dan juga mengandung demografis Shounen.</item>
+        <item>The Great Mage Returns After 4000 Years Manhwa adalah serial komik yang bertemakan Demons, Magic, Reincarnation dan juga mengandung demografis . </item>
+        <item>One Piece Manga adalah serial komik yang bertemakan Supernatural dan juga mengandung demografis Shounen.</item>
+    </string-array>
+    <string-array name="data_sinopsis">
+        <item>Manhwa Solo Leveling yang dibuat oleh komikus bernama Chugong 추공 ini bercerita tentang 10 tahun yang lalu, setelah "Gerbang" yang menghubungkan dunia nyata dengan dunia monster terbuka, beberapa orang biasa, setiap hari menerima kekuatan untuk berburu monster di dalam Gerbang. Mereka dikenal sebagai "Pemburu". Namun, tidak semua Pemburu kuat. Nama saya Sung Jin-Woo, seorang Pemburu peringkat-E. Saya seseorang yang harus mempertaruhkan nyawanya di ruang bawah tanah paling rendah, "Terlemah di Dunia". Tidak memiliki keterampilan apa pun untuk ditampilkan, saya hampir tidak mendapatkan uang yang dibutuhkan dengan bertarung di ruang bawah tanah berlevel rendah… setidaknya sampai saya menemukan ruang bawah tanah tersembunyi dengan kesulitan tersulit dalam ruang bawah tanah peringkat-D! Pada akhirnya, saat aku menerima kematian, tiba-tiba aku menerima kekuatan aneh, log pencarian yang hanya bisa kulihat, rahasia untuk naik level yang hanya aku yang tahu! Jika saya berlatih sesuai dengan pencarian saya dan monster yang diburu, level saya akan naik. Berubah dari Hunter terlemah menjadi Hunter S-rank terkuat!</item>
+        <item>Manhwa Wind Breaker yang dibuat oleh komikus bernama Jo Yong Seok ini bercerita tentang Jay adalah presiden siswa SMA Sunny. Dia tidak hanya seorang siswa yang cerdas tetapi seorang pengendara sepeda yang memiliki teknik tingkat tinggi. Saat Anda mengikuti sepedanya, Anda akan bertemu dengan teman, cinta, dan petualangannya. Bertemu dengan para monster yang juga memiliki kemampuan sepeda yang luar biasa.</item>
+        <item>Manhwa Legend of the Northern Blade yang dibuat oleh komikus bernama 해민 ini bercerita tentang Ketika dunia jatuh ke dalam kegelapan, seniman bela diri berkumpul untuk membentuk Sekte Surgawi Utara. Dengan bantuan dari Sekte Surgawi Utara, orang-orang mulai menikmati kedamaian lagi. Namun, seiring berjalannya waktu para seniman bela diri mulai bersekongkol melawan Sekte Surgawi Utara, dan akhirnya menyebabkan kematian Pemimpin Sekte, Jin Kwan-Ho, menghancurkan sekte itu dengannya. Saat semua orang meninggalkan sekte, putra tunggal Jin Kwan-Ho, Jin Mu-Won juga ditinggalkan. Mu-Won tidak pernah belajar seni bela diri, tetapi dia menemukan Teknik yang diam-diam ditinggalkan oleh ayahnya dan mulai mempelajari seni bela diri dari Sekte Surgawi Utara.</item>
+        <item>Manhwa Omniscient Reader’s Viewpoint yang dibuat oleh komikus bernama Sing-Shong, UMI ini bercerita tentang Ini adalah perkembangan yang saya ketahui. Saat dia mengira bahwa dunia telah dihancurkan, dan alam semesta baru telah terbuka. Kehidupan baru seorang pembaca biasa dimulai dalam dunia novel, sebuah novel yang dia selesaikan sendiri.</item>
+        <item>Manhwa How to Fight yang dibuat oleh komikus bernama Park Tae Joon ini bercerita tentang Tidak ada gunanya Yoo Hobin selalu diintimidasi oleh siswa yang merasa lebih unggul darinya, namun dia mengabaikan mereka karena hidupnya sudah terlalu sulit. Namun, insiden yang tidak disengaja akhirnya mengubah hidupnya. Dia menjadi terkenal melalui video viral yang bahkan tidak ingin dia unggah! Semuanya sempurna! Dia langsung menjadi terkenal dan mulai menghasilkan uang dari video tidak disengaja yang dia unggah. Tetapi karena itu tidak disengaja, dia tidak dapat mereproduksinya. Didorong oleh potensi uang yang akan dihasilkan dan lonjakan popularitasnya yang tiba-tiba, dia berencana untuk membuat video yang lebih menarik sehingga orang akan menganggapnya menarik dan membantunya mengumpulkan lebih banyak pelanggan… Namun, dia tidak dapat mencapai semua itu kecuali dia belajar CARA BERTANGKAP.</item>
+        <item>Manhwa The World After the Fall yang dibuat oleh komikus bernama S-Cynan, Sing-Shong ini bercerita tentang Umat manusia tiba-tiba di-summon untuk menjadi “Walker”, dan mereka harus menyelesaikan semua lantai yang ada di dalam tower untuk menyelamatkan dunia. Lalu, “Regression Stone” muncul. Kini para Walker dapat “kembali” ke masa lalu. Dan perlahan… semuanya meninggalkan masa kini. Harapan terakhir umat manusia, “Carpe Diem”, dibentuk oleh orang-orang yang menolak untuk mengabaikan dunia. Tapi begitu Walker terakhir mencapai lantai 100, dia tidak lagi tahu lagi apa yang harus dia percaya. Ini adalah cerita dari satu-satunya manusia yang tidak melakukan regresi, meski yang lainnya telah kembali ke masa lalu.</item>
+        <item>Manga 8Kaijuu yang dibuat oleh komikus bernama Matsumoto Naoya ini bercerita tentang Seorang pria, tidak senang dengan pekerjaan yang harus dia lakukan dalam hidup, terlibat dalam peristiwa yang tidak terduga ..! Dia menjadi Kaijuu, makhluk mengerikan, memberinya kesempatan baru untuk mencapai apa yang selalu dia impikan!</item>
+        <item>Manhwa Tomb Raider King yang dibuat oleh komikus bernama Sanjijiksong ini bercerita tentang Makam Dewa mulai muncul di seluruh dunia. Karena peninggalan di dalam makam ini, banyak yang dapat menggunakan kekuatan legendaris ini untuk diri mereka sendiri, sementara yang lain diperbudak oleh para pengguna ini. Namun, Tomb Raider muncul dengan tujuan merampok relik tersebut. Raja Tomb Raider. "Persetan! Apa bajingan itu sudah menjarah tempat ini juga ?! ” Apa yang Anda miliki adalah milik saya. Apa yang saya miliki pasti milik saya. Ini adalah kisah tentang Tomb Raider yang dihidupkan kembali yang akan melakukan apa pun yang dia bisa untuk mengklaim semua makam dan relik untuk dirinya sendiri!</item>
+        <item>Manhwa The Great Mage Returns After 4000 Years yang dibuat oleh komikus bernama Barnacle ini bercerita tentang Murid terburuk dari Akademi Westrod, aib Blake House. Jiwa baru memasuki tubuh tak bernyawa Frey Blake, bocah lelaki yang tidak bisa menangani hidupnya yang menyakitkan dan memilih kematian sebagai gantinya. Ada apa dengan tubuh ini? Saya harus memeriksa setiap detail kecilnya. " Penyihir Agung Lucas Traumen. Dia mendapatkan kesempatannya untuk membalas dendam dengan mendapatkan daging dan tulang Frey Blake aib! Dan sekarang mulailah petualangan menarik dari Penyihir Agung yang kembali setelah 4000 tahun!</item>
+        <item>Manga One Piece yang dibuat oleh komikus bernama Oda Eiichiro ini bercerita tentang Gol D. Roger, seorang pria yang disebut sebagai "Raja Bajak Laut," akan dieksekusi oleh Pemerintah Dunia. Tapi tepat sebelum kematiannya, dia mengkonfirmasi keberadaan harta karun besar, One Piece, yang terletak di suatu tempat di lautan luas yang dikenal sebagai Grand Line. Mengumumkan bahwa One Piece dapat diklaim oleh siapa saja yang cukup layak untuk mencapainya, Raja Bajak Laut dieksekusi dan Zaman Bajak Laut Hebat dimulai. Dua puluh dua tahun kemudian, seorang pemuda bernama Monkey D.Luffy siap untuk memulai petualangannya sendiri, mencari One Piece dan berusaha untuk menjadi Raja Bajak Laut yang baru. Berbekal hanya topi jerami, perahu kecil, dan tubuh elastis, ia memulai perjalanan yang fantastis untuk mengumpulkan awaknya sendiri dan kapal yang layak yang akan membawa mereka melintasi Grand Line untuk mengklaim status terbesar di laut lepas.</item>
+    </string-array>
+    <string-array name="data_photo">
+        <item>https://upload.wikimedia.org/wikipedia/id/thumb/9/99/Solo_Leveling_Webtoon.png/330px-Solo_Leveling_Webtoon.png</item>
+        <item>https://static.wikia.nocookie.net/windbreaker/images/8/8b/WindBreaker.jpg/revision/latest?cb=20240507182833</item>
+        <item>https://static.wikia.nocookie.net/legend-of-the-northern-blade/images/5/50/Wiki-background/revision/latest?cb=20210216000420</item>
+        <item>https://m.media-amazon.com/images/I/81ZuZO5vr2L._AC_UF1000,1000_QL80_.jpg</item>
+        <item>https://titipjepang.com/wp-content/uploads/2024/02/BLOG-webtoon-how-to-fight-dapat-adaptasi-anime.jpg</item>
+        <item>https://m.media-amazon.com/images/I/81Ul7kBp3uL._AC_UF1000,1000_QL80_.jpg</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/c/cd/Kaiju_No_8.jpg</item>
+        <item>https://m.media-amazon.com/images/I/917Mp5NpvcL._AC_UF894,1000_QL80_.jpg</item>
+        <item>https://w1.greatmagereturns.com/wp-content/uploads/2021/07/Great-Mage-Returns.jpg</item>
+        <item>https://cdn.gramedia.com/uploads/items/9786230007750_Cov_One_Piece_90.jpg</item>
+    </string-array>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="genre">Genre</string>
+    <string name="about">About</string>
+    <string name="user_about">Veri Anggoro Wijayanto</string>
+    <string name="address">Alamat</string>
+    <string name="email">Email</string>
+    <string name="call_number">Nomer Telepon</string>
+    <string name="address_value">Lingkungan Majenang RT.02/RW.19 Kel. Kuripan, Kec. Purwodadi, Kab. Grobogan, Jawa Tengah 58112.</string>
+    <string name="email_value">ferianggoro.aw@gmail.com</string>
+    <string name="number_value">0895320153112</string>
+    <string name="contact_me">Contact Me</string>
+    <string name="detail_genre">Genre</string>
+    <string name="detail_sinopsis">Sinopsis</string>
+    <string name="detail_description">Description</string>
+    <string name="dummy_sinopsis">Sinopsis</string>
+    <string name="read_comic">Mulai Baca</string>
+    <string name="loading">Loading...</string>
+</resources>
